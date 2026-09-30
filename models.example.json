@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "openrouter/z-ai/glm-5.3-flash",
+    "display_name": "OpenRouter | GLM 5.3 Flash",
+    "context_window": 131072
+  },
+  {
+    "slug": "cheaper/deepseek-v4.1-flash",
+    "display_name": "Cheaper | DeepSeek V4.1 Flash",
+    "context_window": 131072
+  }
+]

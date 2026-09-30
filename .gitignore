@@ -1,0 +1,10 @@
+.env
+*.env
+!*.env.example
+node_modules/
+*.log
+*.bak
+*.backup
+ccswitch-combined-model-catalog.json
+models.json
+work/
